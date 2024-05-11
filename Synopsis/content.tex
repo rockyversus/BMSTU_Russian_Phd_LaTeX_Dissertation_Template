@@ -17,68 +17,46 @@
 
 \input{common/characteristic} % Характеристика работы по структуре во введении и в автореферате не отличается (ГОСТ Р 7.0.11, пункты 5.3.1 и 9.2.1), потому её загружаем из одного и того же внешнего файла, предварительно задав форму выделения некоторым параметрам
 
-%Диссертационная работа была выполнена при поддержке грантов \dots
-
-%\underline{\textbf{Объем и структура работы.}} Диссертация состоит из~введения,
-%четырех глав, заключения и~приложения. Полный объем диссертации
-%\textbf{ХХХ}~страниц текста с~\textbf{ХХ}~рисунками и~5~таблицами. Список
-%литературы содержит \textbf{ХХX}~наименование.
-
 \pdfbookmark{Содержание работы}{description}                          % Закладка pdf
 \section*{Содержание работы}
-Во \underline{\textbf{введении}} обосновывается актуальность
-исследований, проводимых в~рамках данной диссертационной работы,
-приводится обзор научной литературы по~изучаемой проблеме,
-формулируется цель, ставятся задачи работы, излагается научная новизна
-и практическая значимость представляемой работы. В~последующих главах
-сначала описывается общий принцип, позволяющий \dots, а~потом идёт
-апробация на частных примерах: \dots  и~\dots.
-
 
 \underline{\textbf{Первая глава}} посвящена \dots
-
-картинку можно добавить так:
-\begin{figure}[ht]
-    \centerfloat{
-        \hfill
-        \subcaptionbox{\LaTeX}{%
-            \includegraphics[scale=0.27]{latex}}
-        \hfill
-        \subcaptionbox{Knuth}{%
-            \includegraphics[width=0.25\linewidth]{knuth1}}
-        \hfill
-    }
-    \caption{Подпись к картинке.}\label{fig:latex}
-\end{figure}
-
-Формулы в строку без номера добавляются так:
-\[
-    \lambda_{T_s} = K_x\frac{d{x}}{d{T_s}}, \qquad
-    \lambda_{q_s} = K_x\frac{d{x}}{d{q_s}},
-\]
 
 \underline{\textbf{Вторая глава}} посвящена исследованию
 
 \underline{\textbf{Третья глава}} посвящена исследованию
 
-Можно сослаться на свои работы в автореферате. Для этого в файле
-\verb!Synopsis/setup.tex! необходимо присвоить положительное значение
-счётчику \verb!\setcounter{usefootcite}{1}!. В таком случае ссылки на
-работы других авторов будут подстрочными.
-Изложенные в третьей главе результаты опубликованы в~\cite{vakbib1, vakbib2}.
-Использование подстрочных ссылок внутри таблиц может вызывать проблемы.
-
 В \underline{\textbf{четвертой главе}} приведено описание
 
-\FloatBarrier
 \pdfbookmark{Заключение}{conclusion}                                  % Закладка pdf
 В \underline{\textbf{заключении}} приведены основные результаты работы, которые заключаются в следующем:
 \input{common/concl}
 
+
+
+%%% Список литературы с красной строки (без висячего отступа) %%%
+\defbibenvironment{bibliography} % переопределяем окружение библиографии из gost-numeric.bbx пакета biblatex-gost
+{\list
+	{\printtext[labelnumberwidth]{%
+			\printfield{prefixnumber}%
+			\printfield{labelnumber}}}
+	{%
+		\setlength{\labelwidth}{\labelnumberwidth}%
+		\setlength{\leftmargin}{0pt}% default is \labelwidth
+		\setlength{\labelsep}{\widthof{\ }}% Управляет длиной отступа после точки % default is \biblabelsep
+		\setlength{\itemsep}{\bibitemsep}% Управление дополнительным вертикальным разрывом между записями. \bibitemsep по умолчанию соответствует \itemsep списков в документе.
+		\setlength{\itemindent}{\bibhang}% Пользуемся тем, что \bibhang по умолчанию принимает значение \parindent (абзацного отступа), который переназначен в styles.tex
+		\addtolength{\itemindent}{\labelwidth}% Сдвигаем правее на величину номера с точкой
+		\addtolength{\itemindent}{\labelsep}% Сдвигаем ещё правее на отступ после точки
+		\setlength{\parsep}{\bibparsep}%
+	}%
+	\renewcommand*{\makelabel}[1]{\hss##1}%
+}
+{\endlist}
+{\item}
+
+
 \pdfbookmark{Литература}{bibliography}                                % Закладка pdf
-При использовании пакета \verb!biblatex! список публикаций автора по теме
-диссертации формируется в разделе <<\publications>>\ файла
-\verb!common/characteristic.tex!  при помощи команды \verb!\nocite!
 
 \ifdefmacro{\microtypesetup}{\microtypesetup{protrusion=false}}{} % не рекомендуется применять пакет микротипографики к автоматически генерируемому списку литературы
 \urlstyle{rm}                               % ссылки URL обычным шрифтом

@@ -1,0 +1,2181 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global/7FC56270E7A70FA81A5935B72EACBE29/global/global/global}
+    \entry{Gosele1999161}{article}{useauthor=false}{}
+      \name{author}{9}{}{%
+        {{hash=05de44ab1f46dc1f00a24838bf37554c}{%
+           family={Gösele},
+           familyi={G\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod}}}%
+        {{hash=2acf1b60f0cab4f13cee6c38135494b8}{%
+           family={Tong},
+           familyi={T\bibinitperiod},
+           given={Q.-Y.},
+           giveni={Q\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=683a3bcc1fa5815e802c9c45f263b840}{%
+           family={Schumacher},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e9b5036af4528f774a81a86d70882daa}{%
+           family={Kräuter},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0b3cf0a34987c45027b5ef7e01175840}{%
+           family={Reiche},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d50b5bf5d08761c80f5e6be18f7d74f0}{%
+           family={Plößl},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8e0eac29a351fc94c50a89404026df4c}{%
+           family={Kopperschmidt},
+           familyi={K\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=358a318c1f57cd8e3147995b8ffc328c}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={T.-H.},
+           giveni={T\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=478b891875ffa3e7ed7e144fee41b984}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={W.-J.},
+           giveni={W\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{74c89efa7fd1351b9f6d8ef21ac753de}
+      \strng{authornamehash}{74c89efa7fd1351b9f6d8ef21ac753de}
+      \strng{authorfullhash}{8ec39cefebf09b92629bf4c4d25aeee0}
+      \strng{authorfullhashraw}{8ec39cefebf09b92629bf4c4d25aeee0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelprefix}{A}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{74}
+      \field{journaltitle}{Sensors and Actuators A: Physical}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Wafer bonding for microsystems technologies}
+      \field{year}{1999}
+      \field{number}{1\bibrangedash 3}
+      \range{number}{3}
+      \field{pages}{161\bibrangedash 168}
+      \range{pages}{8}
+      \field{volume}{74}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/S0924-4247(98)00310-0
+      \endverb
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{Lermontov}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=73be3854cce603aa225d009bbc42fd7d}{%
+           family={Лермонтов},
+           familyi={Л\bibinitperiod},
+           given={Михаил\bibnamedelima Юрьевич},
+           giveni={М\bibinitperiod\bibinitdelim Ю\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Терра-Кн. клуб}%
+      }
+      \strng{namehash}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{fullhash}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{fullhashraw}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{bibnamehash}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{authorbibnamehash}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{authornamehash}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{authorfullhash}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{authorfullhashraw}{73be3854cce603aa225d009bbc42fd7d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelprefix}{A}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{note}{4 т.}
+      \field{title}{Собрание сочинений: в 4 т.}
+      \field{year}{2009}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{vakbib1}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{bibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorbibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authornamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelprefix}{A}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(0,28~п.~л.; ВАК, WoS)}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2013}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{100\bibrangedash 120}
+      \range{pages}{21}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorvak,biblioauthorwos,biblioauthor,bibliofull}
+    \endentry
+    \entry{vakbib2}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=943e7586af5bd904cc47333f7d59a202}{%
+           family={Фамилия4},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{291bc03a33c604352608aeb36187973d}
+      \strng{authornamehash}{291bc03a33c604352608aeb36187973d}
+      \strng{authorfullhash}{d0e3fc384e4845c1cba66a6a0b1f3b90}
+      \strng{authorfullhashraw}{d0e3fc384e4845c1cba66a6a0b1f3b90}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelprefix}{A}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(0,33~п.~л.~/ 0,28~п.~л.; ВАК)}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2014}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{100\bibrangedash 120}
+      \range{pages}{21}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorvak,biblioauthor,bibliofull}
+    \endentry
+    \entry{wosbib1}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{bibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorbibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authornamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \field{extraname}{2}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelprefix}{A}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(0,21~п.~л., WoS)}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2011}
+      \true{nocite}
+      \field{number}{8}
+      \range{number}{1}
+      \field{pages}{105\bibrangedash 120}
+      \range{pages}{16}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorwos,biblioauthor,bibliofull}
+    \endentry
+    \entry{scbib1}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{bibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorbibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authornamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \field{extraname}{3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelprefix}{A}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Scopus, WoS)}
+      \field{internalsortvolume}{2}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2018}
+      \true{nocite}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{99\bibrangedash 102}
+      \range{pages}{4}
+      \field{volume}{2}
+      \range{volume}{1}
+      \keyw{,biblioauthorscopus,biblioauthorwos,biblioauthor,bibliofull}
+    \endentry
+    \entry{patbib1}{patent}{useauthor=false}{}
+      \name{author}{1}{}{%
+        {{hash=a70dbae02f6ada34f4871cf18e8f926d}{%
+           family={Иванов},
+           familyi={И\bibinitperiod},
+           given={И.\bibnamedelimi И.},
+           giveni={И\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+      }
+      \name{holder}{1}{}{%
+        {{hash=de1afd73a5751bc808effb38004cf7ac}{%
+           family={Технологические\bibnamedelima технологии},
+           familyi={Т\bibinitperiod\bibinitdelim т\bibinitperiod},
+           prefix={заявитель},
+           prefixi={з\bibinitperiod}}}%
+      }
+      \list{credits}{1}{%
+        {патент. поверенный Егорова Г. Б.}%
+      }
+      \strng{authorbibnamehash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authornamehash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authorfullhash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authorfullhashraw}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{holderbibnamehash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holdernamehash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holderfullhash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holderfullhashraw}{de1afd73a5751bc808effb38004cf7ac}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelprefix}{A}
+      \field{labeltitlesource}{title}
+      \field{authorcountry}{Российская Федерация}
+      \field{day}{3}
+      \field{heading}{Заявка 1234567 Рос. федерация, МПК\ensuremath{^7} B 64 G 1/00}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{month}{1}
+      \field{pagetotal}{5 с.~: ил.}
+      \field{prioritycountry}{countryru}
+      \field{priorityday}{1}
+      \field{prioritymonth}{1}
+      \field{prioritynumber}{09/289, 037}
+      \field{priorityyear}{2020}
+      \field{publication}{Бюл. № 7 (I ч.)\midsentence}
+      \field{publicationday}{2}
+      \field{publicationmonth}{1}
+      \field{publicationyear}{2020}
+      \field{requestnumber}{2000108705/28}
+      \field{title}{Многоразовая ракета-носитель}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{prioritydateera}{ce}
+      \field{publicationdateera}{ce}
+      \true{nocite}
+      \keyw{,biblioauthorpatent,biblioregistered,bibliofull}
+    \endentry
+    \entry{progbib1}{patent}{useauthor=false}{}
+      \name{author}{1}{}{%
+        {{hash=f905ebf57d59a975a8416302bc876807}{%
+           family={Петров},
+           familyi={П\bibinitperiod},
+           given={П.\bibnamedelimi П.},
+           giveni={П\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+      }
+      \name{holder}{1}{}{%
+        {{hash=80232904ede76aacda9b0d162f5a593b}{%
+           family={НИИ\bibnamedelima ГДААДАВБА},
+           familyi={Н\bibinitperiod\bibinitdelim Г\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authornamehash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authorfullhash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authorfullhashraw}{f905ebf57d59a975a8416302bc876807}
+      \strng{holderbibnamehash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holdernamehash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holderfullhash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holderfullhashraw}{80232904ede76aacda9b0d162f5a593b}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelprefix}{A}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{heading}{Свидетельство о гос. регистрации программы для {ЭВМ}}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{month}{1}
+      \field{prioritycountry}{countryru}
+      \field{prioritynumber}{1234567890}
+      \field{publicationday}{2}
+      \field{publicationmonth}{1}
+      \field{publicationyear}{2020}
+      \field{requestnumber}{1234567890}
+      \field{title}{foobar}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{publicationdateera}{ce}
+      \true{nocite}
+      \keyw{,biblioauthorprogram,biblioregistered,bibliofull}
+    \endentry
+    \entry{confbib1}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{1}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelprefix}{A}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{название тезисов конференции}
+      \field{year}{2015}
+      \true{nocite}
+      \keyw{,biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+    \entry{confbib2}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelprefix}{A}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{название тезисов конференции}
+      \field{year}{2015}
+      \true{nocite}
+      \keyw{,biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+    \entry{bib1}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelprefix}{A}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{100}
+      \range{pages}{1}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorconf,biblioauthorother,biblioauthor,bibliofull}
+    \endentry
+    \entry{bib2}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelprefix}{A}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{название тезисов конференции}
+      \field{year}{2012}
+      \true{nocite}
+      \keyw{,biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+  \enddatalist
+  \datalist[entry]{none/global/D41D8CD98F00B204E9800998ECF8427E/global/global/global}
+    \entry{Gosele1999161}{article}{useauthor=false}{}
+      \name{author}{9}{}{%
+        {{hash=05de44ab1f46dc1f00a24838bf37554c}{%
+           family={Gösele},
+           familyi={G\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod}}}%
+        {{hash=2acf1b60f0cab4f13cee6c38135494b8}{%
+           family={Tong},
+           familyi={T\bibinitperiod},
+           given={Q.-Y.},
+           giveni={Q\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=683a3bcc1fa5815e802c9c45f263b840}{%
+           family={Schumacher},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e9b5036af4528f774a81a86d70882daa}{%
+           family={Kräuter},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0b3cf0a34987c45027b5ef7e01175840}{%
+           family={Reiche},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d50b5bf5d08761c80f5e6be18f7d74f0}{%
+           family={Plößl},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8e0eac29a351fc94c50a89404026df4c}{%
+           family={Kopperschmidt},
+           familyi={K\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=358a318c1f57cd8e3147995b8ffc328c}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={T.-H.},
+           giveni={T\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=478b891875ffa3e7ed7e144fee41b984}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={W.-J.},
+           giveni={W\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{74c89efa7fd1351b9f6d8ef21ac753de}
+      \strng{authornamehash}{74c89efa7fd1351b9f6d8ef21ac753de}
+      \strng{authorfullhash}{8ec39cefebf09b92629bf4c4d25aeee0}
+      \strng{authorfullhashraw}{8ec39cefebf09b92629bf4c4d25aeee0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{74}
+      \field{journaltitle}{Sensors and Actuators A: Physical}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Wafer bonding for microsystems technologies}
+      \field{year}{1999}
+      \field{number}{1\bibrangedash 3}
+      \range{number}{3}
+      \field{pages}{161\bibrangedash 168}
+      \range{pages}{8}
+      \field{volume}{74}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/S0924-4247(98)00310-0
+      \endverb
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{Lermontov}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=73be3854cce603aa225d009bbc42fd7d}{%
+           family={Лермонтов},
+           familyi={Л\bibinitperiod},
+           given={Михаил\bibnamedelima Юрьевич},
+           giveni={М\bibinitperiod\bibinitdelim Ю\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Терра-Кн. клуб}%
+      }
+      \strng{namehash}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{fullhash}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{fullhashraw}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{bibnamehash}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{authorbibnamehash}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{authornamehash}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{authorfullhash}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{authorfullhashraw}{73be3854cce603aa225d009bbc42fd7d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{note}{4 т.}
+      \field{title}{Собрание сочинений: в 4 т.}
+      \field{year}{2009}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{vakbib1}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{bibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorbibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authornamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(0,28~п.~л.; ВАК, WoS)}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2013}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{100\bibrangedash 120}
+      \range{pages}{21}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorvak,biblioauthorwos,biblioauthor,bibliofull}
+    \endentry
+    \entry{vakbib2}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=943e7586af5bd904cc47333f7d59a202}{%
+           family={Фамилия4},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{291bc03a33c604352608aeb36187973d}
+      \strng{authornamehash}{291bc03a33c604352608aeb36187973d}
+      \strng{authorfullhash}{d0e3fc384e4845c1cba66a6a0b1f3b90}
+      \strng{authorfullhashraw}{d0e3fc384e4845c1cba66a6a0b1f3b90}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(0,33~п.~л.~/ 0,28~п.~л.; ВАК)}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2014}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{100\bibrangedash 120}
+      \range{pages}{21}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorvak,biblioauthor,bibliofull}
+    \endentry
+    \entry{wosbib1}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{bibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorbibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authornamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \field{extraname}{2}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(0,21~п.~л., WoS)}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2011}
+      \true{nocite}
+      \field{number}{8}
+      \range{number}{1}
+      \field{pages}{105\bibrangedash 120}
+      \range{pages}{16}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorwos,biblioauthor,bibliofull}
+    \endentry
+    \entry{scbib1}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{bibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorbibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authornamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \field{extraname}{3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Scopus, WoS)}
+      \field{internalsortvolume}{2}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2018}
+      \true{nocite}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{99\bibrangedash 102}
+      \range{pages}{4}
+      \field{volume}{2}
+      \range{volume}{1}
+      \keyw{,biblioauthorscopus,biblioauthorwos,biblioauthor,bibliofull}
+    \endentry
+    \entry{patbib1}{patent}{useauthor=false}{}
+      \name{author}{1}{}{%
+        {{hash=a70dbae02f6ada34f4871cf18e8f926d}{%
+           family={Иванов},
+           familyi={И\bibinitperiod},
+           given={И.\bibnamedelimi И.},
+           giveni={И\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+      }
+      \name{holder}{1}{}{%
+        {{hash=de1afd73a5751bc808effb38004cf7ac}{%
+           family={Технологические\bibnamedelima технологии},
+           familyi={Т\bibinitperiod\bibinitdelim т\bibinitperiod},
+           prefix={заявитель},
+           prefixi={з\bibinitperiod}}}%
+      }
+      \list{credits}{1}{%
+        {патент. поверенный Егорова Г. Б.}%
+      }
+      \strng{authorbibnamehash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authornamehash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authorfullhash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authorfullhashraw}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{holderbibnamehash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holdernamehash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holderfullhash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holderfullhashraw}{de1afd73a5751bc808effb38004cf7ac}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{authorcountry}{Российская Федерация}
+      \field{day}{3}
+      \field{heading}{Заявка 1234567 Рос. федерация, МПК\ensuremath{^7} B 64 G 1/00}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{month}{1}
+      \field{pagetotal}{5 с.~: ил.}
+      \field{prioritycountry}{countryru}
+      \field{priorityday}{1}
+      \field{prioritymonth}{1}
+      \field{prioritynumber}{09/289, 037}
+      \field{priorityyear}{2020}
+      \field{publication}{Бюл. № 7 (I ч.)\midsentence}
+      \field{publicationday}{2}
+      \field{publicationmonth}{1}
+      \field{publicationyear}{2020}
+      \field{requestnumber}{2000108705/28}
+      \field{title}{Многоразовая ракета-носитель}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{prioritydateera}{ce}
+      \field{publicationdateera}{ce}
+      \true{nocite}
+      \keyw{,biblioauthorpatent,biblioregistered,bibliofull}
+    \endentry
+    \entry{progbib1}{patent}{useauthor=false}{}
+      \name{author}{1}{}{%
+        {{hash=f905ebf57d59a975a8416302bc876807}{%
+           family={Петров},
+           familyi={П\bibinitperiod},
+           given={П.\bibnamedelimi П.},
+           giveni={П\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+      }
+      \name{holder}{1}{}{%
+        {{hash=80232904ede76aacda9b0d162f5a593b}{%
+           family={НИИ\bibnamedelima ГДААДАВБА},
+           familyi={Н\bibinitperiod\bibinitdelim Г\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authornamehash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authorfullhash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authorfullhashraw}{f905ebf57d59a975a8416302bc876807}
+      \strng{holderbibnamehash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holdernamehash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holderfullhash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holderfullhashraw}{80232904ede76aacda9b0d162f5a593b}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{heading}{Свидетельство о гос. регистрации программы для {ЭВМ}}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{month}{1}
+      \field{prioritycountry}{countryru}
+      \field{prioritynumber}{1234567890}
+      \field{publicationday}{2}
+      \field{publicationmonth}{1}
+      \field{publicationyear}{2020}
+      \field{requestnumber}{1234567890}
+      \field{title}{foobar}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{publicationdateera}{ce}
+      \true{nocite}
+      \keyw{,biblioauthorprogram,biblioregistered,bibliofull}
+    \endentry
+    \entry{confbib1}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{1}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{название тезисов конференции}
+      \field{year}{2015}
+      \true{nocite}
+      \keyw{,biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+    \entry{confbib2}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{название тезисов конференции}
+      \field{year}{2015}
+      \true{nocite}
+      \keyw{,biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+    \entry{bib1}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{100}
+      \range{pages}{1}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorconf,biblioauthorother,biblioauthor,bibliofull}
+    \endentry
+    \entry{bib2}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{название тезисов конференции}
+      \field{year}{2012}
+      \true{nocite}
+      \keyw{,biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+  \enddatalist
+  \datalist[entry]{none/global//global/global/global}
+    \entry{Gosele1999161}{article}{useauthor=false}{}
+      \name{author}{9}{}{%
+        {{hash=05de44ab1f46dc1f00a24838bf37554c}{%
+           family={Gösele},
+           familyi={G\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod}}}%
+        {{hash=2acf1b60f0cab4f13cee6c38135494b8}{%
+           family={Tong},
+           familyi={T\bibinitperiod},
+           given={Q.-Y.},
+           giveni={Q\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=683a3bcc1fa5815e802c9c45f263b840}{%
+           family={Schumacher},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e9b5036af4528f774a81a86d70882daa}{%
+           family={Kräuter},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0b3cf0a34987c45027b5ef7e01175840}{%
+           family={Reiche},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d50b5bf5d08761c80f5e6be18f7d74f0}{%
+           family={Plößl},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8e0eac29a351fc94c50a89404026df4c}{%
+           family={Kopperschmidt},
+           familyi={K\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=358a318c1f57cd8e3147995b8ffc328c}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={T.-H.},
+           giveni={T\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=478b891875ffa3e7ed7e144fee41b984}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={W.-J.},
+           giveni={W\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{74c89efa7fd1351b9f6d8ef21ac753de}
+      \strng{authornamehash}{74c89efa7fd1351b9f6d8ef21ac753de}
+      \strng{authorfullhash}{8ec39cefebf09b92629bf4c4d25aeee0}
+      \strng{authorfullhashraw}{8ec39cefebf09b92629bf4c4d25aeee0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{74}
+      \field{journaltitle}{Sensors and Actuators A: Physical}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Wafer bonding for microsystems technologies}
+      \field{year}{1999}
+      \field{number}{1\bibrangedash 3}
+      \range{number}{3}
+      \field{pages}{161\bibrangedash 168}
+      \range{pages}{8}
+      \field{volume}{74}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/S0924-4247(98)00310-0
+      \endverb
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{Lermontov}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=73be3854cce603aa225d009bbc42fd7d}{%
+           family={Лермонтов},
+           familyi={Л\bibinitperiod},
+           given={Михаил\bibnamedelima Юрьевич},
+           giveni={М\bibinitperiod\bibinitdelim Ю\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Терра-Кн. клуб}%
+      }
+      \strng{namehash}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{fullhash}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{fullhashraw}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{bibnamehash}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{authorbibnamehash}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{authornamehash}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{authorfullhash}{73be3854cce603aa225d009bbc42fd7d}
+      \strng{authorfullhashraw}{73be3854cce603aa225d009bbc42fd7d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{note}{4 т.}
+      \field{title}{Собрание сочинений: в 4 т.}
+      \field{year}{2009}
+      \keyw{,biblioexternal,bibliofull}
+    \endentry
+    \entry{vakbib1}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{bibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorbibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authornamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(0,28~п.~л.; ВАК, WoS)}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2013}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{100\bibrangedash 120}
+      \range{pages}{21}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorvak,biblioauthorwos,biblioauthor,bibliofull}
+    \endentry
+    \entry{vakbib2}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=943e7586af5bd904cc47333f7d59a202}{%
+           family={Фамилия4},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{291bc03a33c604352608aeb36187973d}
+      \strng{authornamehash}{291bc03a33c604352608aeb36187973d}
+      \strng{authorfullhash}{d0e3fc384e4845c1cba66a6a0b1f3b90}
+      \strng{authorfullhashraw}{d0e3fc384e4845c1cba66a6a0b1f3b90}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(0,33~п.~л.~/ 0,28~п.~л.; ВАК)}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2014}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{100\bibrangedash 120}
+      \range{pages}{21}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorvak,biblioauthor,bibliofull}
+    \endentry
+    \entry{wosbib1}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{bibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorbibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authornamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \field{extraname}{2}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(0,21~п.~л., WoS)}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2011}
+      \true{nocite}
+      \field{number}{8}
+      \range{number}{1}
+      \field{pages}{105\bibrangedash 120}
+      \range{pages}{16}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorwos,biblioauthor,bibliofull}
+    \endentry
+    \entry{scbib1}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{bibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorbibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authornamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \field{extraname}{3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Scopus, WoS)}
+      \field{internalsortvolume}{2}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2018}
+      \true{nocite}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{99\bibrangedash 102}
+      \range{pages}{4}
+      \field{volume}{2}
+      \range{volume}{1}
+      \keyw{,biblioauthorscopus,biblioauthorwos,biblioauthor,bibliofull}
+    \endentry
+    \entry{patbib1}{patent}{useauthor=false}{}
+      \name{author}{1}{}{%
+        {{hash=a70dbae02f6ada34f4871cf18e8f926d}{%
+           family={Иванов},
+           familyi={И\bibinitperiod},
+           given={И.\bibnamedelimi И.},
+           giveni={И\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+      }
+      \name{holder}{1}{}{%
+        {{hash=de1afd73a5751bc808effb38004cf7ac}{%
+           family={Технологические\bibnamedelima технологии},
+           familyi={Т\bibinitperiod\bibinitdelim т\bibinitperiod},
+           prefix={заявитель},
+           prefixi={з\bibinitperiod}}}%
+      }
+      \list{credits}{1}{%
+        {патент. поверенный Егорова Г. Б.}%
+      }
+      \strng{authorbibnamehash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authornamehash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authorfullhash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authorfullhashraw}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{holderbibnamehash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holdernamehash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holderfullhash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holderfullhashraw}{de1afd73a5751bc808effb38004cf7ac}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{authorcountry}{Российская Федерация}
+      \field{day}{3}
+      \field{heading}{Заявка 1234567 Рос. федерация, МПК\ensuremath{^7} B 64 G 1/00}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{month}{1}
+      \field{pagetotal}{5 с.~: ил.}
+      \field{prioritycountry}{countryru}
+      \field{priorityday}{1}
+      \field{prioritymonth}{1}
+      \field{prioritynumber}{09/289, 037}
+      \field{priorityyear}{2020}
+      \field{publication}{Бюл. № 7 (I ч.)\midsentence}
+      \field{publicationday}{2}
+      \field{publicationmonth}{1}
+      \field{publicationyear}{2020}
+      \field{requestnumber}{2000108705/28}
+      \field{title}{Многоразовая ракета-носитель}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{prioritydateera}{ce}
+      \field{publicationdateera}{ce}
+      \true{nocite}
+      \keyw{,biblioauthorpatent,biblioregistered,bibliofull}
+    \endentry
+    \entry{progbib1}{patent}{useauthor=false}{}
+      \name{author}{1}{}{%
+        {{hash=f905ebf57d59a975a8416302bc876807}{%
+           family={Петров},
+           familyi={П\bibinitperiod},
+           given={П.\bibnamedelimi П.},
+           giveni={П\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+      }
+      \name{holder}{1}{}{%
+        {{hash=80232904ede76aacda9b0d162f5a593b}{%
+           family={НИИ\bibnamedelima ГДААДАВБА},
+           familyi={Н\bibinitperiod\bibinitdelim Г\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authornamehash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authorfullhash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authorfullhashraw}{f905ebf57d59a975a8416302bc876807}
+      \strng{holderbibnamehash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holdernamehash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holderfullhash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holderfullhashraw}{80232904ede76aacda9b0d162f5a593b}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{heading}{Свидетельство о гос. регистрации программы для {ЭВМ}}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{month}{1}
+      \field{prioritycountry}{countryru}
+      \field{prioritynumber}{1234567890}
+      \field{publicationday}{2}
+      \field{publicationmonth}{1}
+      \field{publicationyear}{2020}
+      \field{requestnumber}{1234567890}
+      \field{title}{foobar}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{publicationdateera}{ce}
+      \true{nocite}
+      \keyw{,biblioauthorprogram,biblioregistered,bibliofull}
+    \endentry
+    \entry{confbib1}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{1}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{название тезисов конференции}
+      \field{year}{2015}
+      \true{nocite}
+      \keyw{,biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+    \entry{confbib2}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{название тезисов конференции}
+      \field{year}{2015}
+      \true{nocite}
+      \keyw{,biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+    \entry{bib1}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{100}
+      \range{pages}{1}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorconf,biblioauthorother,biblioauthor,bibliofull}
+    \endentry
+    \entry{bib2}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{название тезисов конференции}
+      \field{year}{2012}
+      \true{nocite}
+      \keyw{,biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{1}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{confbib1}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{название тезисов конференции}
+      \field{year}{2015}
+      \true{nocite}
+      \keyw{,biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+    \entry{confbib2}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{название тезисов конференции}
+      \field{year}{2015}
+      \true{nocite}
+      \keyw{,biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+    \entry{bib1}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{3}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{100}
+      \range{pages}{1}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorconf,biblioauthorother,biblioauthor,bibliofull}
+    \endentry
+    \entry{bib2}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{4}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{название тезисов конференции}
+      \field{year}{2012}
+      \true{nocite}
+      \keyw{,biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+    \entry{scbib1}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{bibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorbibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authornamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \field{extraname}{1}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Scopus, WoS)}
+      \field{internalsortvolume}{2}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2018}
+      \true{nocite}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{99\bibrangedash 102}
+      \range{pages}{4}
+      \field{volume}{2}
+      \range{volume}{1}
+      \keyw{,biblioauthorscopus,biblioauthorwos,biblioauthor,bibliofull}
+    \endentry
+    \entry{vakbib1}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{bibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorbibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authornamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(0,28~п.~л.; ВАК, WoS)}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2013}
+      \true{nocite}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{100\bibrangedash 120}
+      \range{pages}{21}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorvak,biblioauthorwos,biblioauthor,bibliofull}
+    \endentry
+    \entry{vakbib2}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=943e7586af5bd904cc47333f7d59a202}{%
+           family={Фамилия4},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{291bc03a33c604352608aeb36187973d}
+      \strng{authornamehash}{291bc03a33c604352608aeb36187973d}
+      \strng{authorfullhash}{d0e3fc384e4845c1cba66a6a0b1f3b90}
+      \strng{authorfullhashraw}{d0e3fc384e4845c1cba66a6a0b1f3b90}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(0,33~п.~л.~/ 0,28~п.~л.; ВАК)}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2014}
+      \true{nocite}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{100\bibrangedash 120}
+      \range{pages}{21}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorvak,biblioauthor,bibliofull}
+    \endentry
+    \entry{wosbib1}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{fullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{bibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorbibnamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authornamehash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhash}{68d209ef1398ade3d8834d8b486dd3a1}
+      \strng{authorfullhashraw}{68d209ef1398ade3d8834d8b486dd3a1}
+      \field{extraname}{3}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(0,21~п.~л., WoS)}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2011}
+      \true{nocite}
+      \field{number}{8}
+      \range{number}{1}
+      \field{pages}{105\bibrangedash 120}
+      \range{pages}{16}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorwos,biblioauthor,bibliofull}
+    \endentry
+    \entry{patbib1}{patent}{useauthor=false}{}
+      \name{author}{1}{}{%
+        {{hash=a70dbae02f6ada34f4871cf18e8f926d}{%
+           family={Иванов},
+           familyi={И\bibinitperiod},
+           given={И.\bibnamedelimi И.},
+           giveni={И\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+      }
+      \name{holder}{1}{}{%
+        {{hash=de1afd73a5751bc808effb38004cf7ac}{%
+           family={Технологические\bibnamedelima технологии},
+           familyi={Т\bibinitperiod\bibinitdelim т\bibinitperiod},
+           prefix={заявитель},
+           prefixi={з\bibinitperiod}}}%
+      }
+      \list{credits}{1}{%
+        {патент. поверенный Егорова Г. Б.}%
+      }
+      \strng{authorbibnamehash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authornamehash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authorfullhash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authorfullhashraw}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{holderbibnamehash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holdernamehash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holderfullhash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holderfullhashraw}{de1afd73a5751bc808effb38004cf7ac}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{authorcountry}{Российская Федерация}
+      \field{day}{3}
+      \field{heading}{Заявка 1234567 Рос. федерация, МПК\ensuremath{^7} B 64 G 1/00}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{month}{1}
+      \field{pagetotal}{5 с.~: ил.}
+      \field{prioritycountry}{countryru}
+      \field{priorityday}{1}
+      \field{prioritymonth}{1}
+      \field{prioritynumber}{09/289, 037}
+      \field{priorityyear}{2020}
+      \field{publication}{Бюл. № 7 (I ч.)\midsentence}
+      \field{publicationday}{2}
+      \field{publicationmonth}{1}
+      \field{publicationyear}{2020}
+      \field{requestnumber}{2000108705/28}
+      \field{title}{Многоразовая ракета-носитель}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{prioritydateera}{ce}
+      \field{publicationdateera}{ce}
+      \true{nocite}
+      \keyw{,biblioauthorpatent,biblioregistered,bibliofull}
+    \endentry
+    \entry{progbib1}{patent}{useauthor=false}{}
+      \name{author}{1}{}{%
+        {{hash=f905ebf57d59a975a8416302bc876807}{%
+           family={Петров},
+           familyi={П\bibinitperiod},
+           given={П.\bibnamedelimi П.},
+           giveni={П\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+      }
+      \name{holder}{1}{}{%
+        {{hash=80232904ede76aacda9b0d162f5a593b}{%
+           family={НИИ\bibnamedelima ГДААДАВБА},
+           familyi={Н\bibinitperiod\bibinitdelim Г\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authornamehash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authorfullhash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authorfullhashraw}{f905ebf57d59a975a8416302bc876807}
+      \strng{holderbibnamehash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holdernamehash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holderfullhash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holderfullhashraw}{80232904ede76aacda9b0d162f5a593b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{heading}{Свидетельство о гос. регистрации программы для {ЭВМ}}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{month}{1}
+      \field{prioritycountry}{countryru}
+      \field{prioritynumber}{1234567890}
+      \field{publicationday}{2}
+      \field{publicationmonth}{1}
+      \field{publicationyear}{2020}
+      \field{requestnumber}{1234567890}
+      \field{title}{foobar}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{publicationdateera}{ce}
+      \true{nocite}
+      \keyw{,biblioauthorprogram,biblioregistered,bibliofull}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{2}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{vakbib2}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3a4ef68d2d3d9b402717799e2542b421}{%
+           family={Фамилия2},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=3cf411ec1bb57aa79585a17c7cb4648f}{%
+           family={Фамилия3},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+        {{hash=943e7586af5bd904cc47333f7d59a202}{%
+           family={Фамилия4},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{291bc03a33c604352608aeb36187973d}
+      \strng{authornamehash}{291bc03a33c604352608aeb36187973d}
+      \strng{authorfullhash}{d0e3fc384e4845c1cba66a6a0b1f3b90}
+      \strng{authorfullhashraw}{d0e3fc384e4845c1cba66a6a0b1f3b90}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(0,33~п.~л.~/ 0,28~п.~л.; ВАК)}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2014}
+      \true{nocite}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{100\bibrangedash 120}
+      \range{pages}{21}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorvak,biblioauthor,bibliofull}
+    \endentry
+    \entry{patbib1}{patent}{useauthor=false}{}
+      \name{author}{1}{}{%
+        {{hash=a70dbae02f6ada34f4871cf18e8f926d}{%
+           family={Иванов},
+           familyi={И\bibinitperiod},
+           given={И.\bibnamedelimi И.},
+           giveni={И\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+      }
+      \name{holder}{1}{}{%
+        {{hash=de1afd73a5751bc808effb38004cf7ac}{%
+           family={Технологические\bibnamedelima технологии},
+           familyi={Т\bibinitperiod\bibinitdelim т\bibinitperiod},
+           prefix={заявитель},
+           prefixi={з\bibinitperiod}}}%
+      }
+      \list{credits}{1}{%
+        {патент. поверенный Егорова Г. Б.}%
+      }
+      \strng{authorbibnamehash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authornamehash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authorfullhash}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{authorfullhashraw}{a70dbae02f6ada34f4871cf18e8f926d}
+      \strng{holderbibnamehash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holdernamehash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holderfullhash}{de1afd73a5751bc808effb38004cf7ac}
+      \strng{holderfullhashraw}{de1afd73a5751bc808effb38004cf7ac}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{authorcountry}{Российская Федерация}
+      \field{day}{3}
+      \field{heading}{Заявка 1234567 Рос. федерация, МПК\ensuremath{^7} B 64 G 1/00}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{month}{1}
+      \field{pagetotal}{5 с.~: ил.}
+      \field{prioritycountry}{countryru}
+      \field{priorityday}{1}
+      \field{prioritymonth}{1}
+      \field{prioritynumber}{09/289, 037}
+      \field{priorityyear}{2020}
+      \field{publication}{Бюл. № 7 (I ч.)\midsentence}
+      \field{publicationday}{2}
+      \field{publicationmonth}{1}
+      \field{publicationyear}{2020}
+      \field{requestnumber}{2000108705/28}
+      \field{title}{Многоразовая ракета-носитель}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{prioritydateera}{ce}
+      \field{publicationdateera}{ce}
+      \true{nocite}
+      \keyw{,biblioauthorpatent,biblioregistered,bibliofull}
+    \endentry
+    \entry{progbib1}{patent}{useauthor=false}{}
+      \name{author}{1}{}{%
+        {{hash=f905ebf57d59a975a8416302bc876807}{%
+           family={Петров},
+           familyi={П\bibinitperiod},
+           given={П.\bibnamedelimi П.},
+           giveni={П\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+      }
+      \name{holder}{1}{}{%
+        {{hash=80232904ede76aacda9b0d162f5a593b}{%
+           family={НИИ\bibnamedelima ГДААДАВБА},
+           familyi={Н\bibinitperiod\bibinitdelim Г\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authornamehash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authorfullhash}{f905ebf57d59a975a8416302bc876807}
+      \strng{authorfullhashraw}{f905ebf57d59a975a8416302bc876807}
+      \strng{holderbibnamehash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holdernamehash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holderfullhash}{80232904ede76aacda9b0d162f5a593b}
+      \strng{holderfullhashraw}{80232904ede76aacda9b0d162f5a593b}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{heading}{Свидетельство о гос. регистрации программы для {ЭВМ}}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{month}{1}
+      \field{prioritycountry}{countryru}
+      \field{prioritynumber}{1234567890}
+      \field{publicationday}{2}
+      \field{publicationmonth}{1}
+      \field{publicationyear}{2020}
+      \field{requestnumber}{1234567890}
+      \field{title}{foobar}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{publicationdateera}{ce}
+      \true{nocite}
+      \keyw{,biblioauthorprogram,biblioregistered,bibliofull}
+    \endentry
+    \entry{bib1}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{1}
+      \field{journaltitle}{Журнал}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{Название статьи}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{100}
+      \range{pages}{1}
+      \field{volume}{1}
+      \range{volume}{1}
+      \keyw{,biblioauthorconf,biblioauthorother,biblioauthor,bibliofull}
+    \endentry
+    \entry{confbib1}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=80941ecf01a5fc5cc10f9fb0286a5444}{%
+           family={Фамилия},
+           familyi={Ф\bibinitperiod},
+           given={И.\bibnamedelimi О.},
+           giveni={И\bibinitperiod\bibinitdelim О\bibinitperiod}}}%
+      }
+      \strng{namehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{fullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{bibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorbibnamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authornamehash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhash}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \strng{authorfullhashraw}{80941ecf01a5fc5cc10f9fb0286a5444}
+      \field{extraname}{2}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Название сборника}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{title}{название тезисов конференции}
+      \field{year}{2015}
+      \true{nocite}
+      \keyw{,biblioauthorconf,biblioauthor,bibliofull}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
